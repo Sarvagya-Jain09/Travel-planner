@@ -1,7 +1,3 @@
-/**
- * Created by sravagyajain on 19/05/23.
- */
-
 function createGraph(V,E){
     // V - Number of vertices in graph
     // E - Number of edges in graph (u,v,w)
